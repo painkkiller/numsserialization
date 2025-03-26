@@ -1,0 +1,14 @@
+node_modules
+analitics/data
+build
+backend/.git
+backend/public
+!backend/public/data/idioms.json
+!backend/public/assets/anime/start1.gif
+!backend/public/assets/anime/start2.gif
+backend/*.yml
+logs
+npm-debug.log
+.nyc
+.env
+.DS_Store
